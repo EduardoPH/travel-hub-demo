@@ -30,16 +30,10 @@ TravelHub-primal é uma aplicação para gerenciar e planejar viagens, oferecend
   cd travel-hub
   ```
 
-3. Instale as dependências:
+3. Execute o arquivo:
 
   ```bash
-  npm install
-  ```
-
-4. Inicie a aplicação:
-
-  ```bash
-  npm start
+  login.html
   ```
 
 ## Contribuição
@@ -67,4 +61,4 @@ TravelHub-primal é uma aplicação para gerenciar e planejar viagens, oferecend
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença de Eduardo.
