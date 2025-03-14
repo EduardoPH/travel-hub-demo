@@ -1,0 +1,16 @@
+{
+  "name": "travel-hub-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EduardoPH/travel-hub-demo.git",
+  "author": "EduardoPH <eduardo.mendess@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  },
+  "scripts": {
+    "dev": "nodemon server/server.js"
+  },
+  "type": "module"
+}
